@@ -1,3 +1,8 @@
+# Updated by HolyMarcell
+* to use node20
+* increased yarn timeout, because windows runners on github are slow
+
+
 # Electron Builder Action
 
 **GitHub Action for building and releasing Electron apps**
